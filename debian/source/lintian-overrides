@@ -1,0 +1,5 @@
+python-iso8601 source: file-without-copyright-information
+python-iso8601 source: no-debian-changes
+python-iso8601 source: source-contains-prebuilt-windows-binary
+python-iso8601 source: source-is-missing
+python-iso8601 source: source-package-encodes-python-version
